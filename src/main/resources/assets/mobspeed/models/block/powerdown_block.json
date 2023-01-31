@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mobspeed:block/powerdown_block"
+  }
+}
