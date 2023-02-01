@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "magicarmor:block/ultra_furnace_north",
+    "south": "magicarmor:block/ultra_furnace_south",
+    "east": "magicarmor:block/ultra_furnace_east",
+    "west": "magicarmor:block/ultra_furnace_west",
+    "up": "magicarmor:block/ultra_furnace_up",
+    "down": "magicarmor:block/ultra_furnace_down"
+  }
+}

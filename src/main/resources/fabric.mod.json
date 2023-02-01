@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "mobspeed",
+  "id": "magicarmor",
   "version": "${version}",
 
   "name": "SPEEEEEEEEED!",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.sleepyhorse.speed.Initializer"
+      "net.sleepyhorse.magicarmor.Initializer"
     ]
   },
   "mixins": [
-    "mobspeed.mixins.json"
+    "magicarmor.mixins.json"
   ],
 
   "depends": {
